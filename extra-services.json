@@ -1,0 +1,8 @@
+{
+ "name":"Extra Services", 
+ "description":"", 
+ "icons":
+ [	 		
+	{"name":"Crunchyroll", "url":"https://image.tmdb.org/t/p/h100_filter(negate,000,000)/qqyXcZlJQKlRmAD1TCKV7mGLQlt.png"}
+ ]
+}
